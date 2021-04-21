@@ -8,3 +8,11 @@
 
 <p>Text 1 <a href="https://techg4mer.com">Link</a> Text 2</p>
 
+<p>Forms</p>
+
+<form>
+<label>Name:
+<input name="name" maxlength="90">
+</label>
+<input type="submit" value="Submit">
+</form>
