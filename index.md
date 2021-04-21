@@ -12,7 +12,7 @@
 
 <form>
 <label>Name:
-<input name="name" maxlength="90">
+<input name="Text e.g. Name" maxlength="90">
 </label>
-<input type="submit" value="Submit">
+<input type="Text e.g. submit" value="Submit">
 </form>
