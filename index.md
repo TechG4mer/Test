@@ -1,2 +1,2 @@
-<h1>Sup Delta IT Team<\h1>
+<h1>Sup Delta IT Team</h1>
   
